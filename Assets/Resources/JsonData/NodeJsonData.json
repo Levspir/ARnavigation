@@ -1,0 +1,1148 @@
+{
+    "Items": [
+        {
+            "nodeID": "n001",
+            "position": "456 0 731",
+            "referencePosition": "456 0 701",
+            "yOrientation": 0,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r01"
+        },
+        {
+            "nodeID": "n002",
+            "position": "689 0 736",
+            "referencePosition": "689 0 697",
+            "yOrientation": 0,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r01"
+        },
+        {
+            "nodeID": "n003",
+            "position": "721 0 427",
+            "referencePosition": "696.4 0 450.1",
+            "yOrientation": 134.247,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r02"
+        },
+        {
+            "nodeID": "n004",
+            "position": "628 0 345",
+            "referencePosition": "584.5 0 345",
+            "yOrientation": 84,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r02"
+        },
+        {
+            "nodeID": "n005",
+            "position": "954 0 658",
+            "referencePosition": "910 0 658",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r03"
+        },
+        {
+            "nodeID": "n006",
+            "position": "836 0 317",
+            "referencePosition": "881 0 292.6",
+            "yOrientation": 297.9,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r02"
+        },
+        {
+            "nodeID": "n007",
+            "position": "795 0 125.9",
+            "referencePosition": "758.8 0 162.1",
+            "yOrientation": 139.5,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r04"
+        },
+        {
+            "nodeID": "n008",
+            "position": "545 0 436.5",
+            "referencePosition": "503.4 0 407.5",
+            "yOrientation": 44.723,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r05"
+        },
+        {
+            "nodeID": "n009",
+            "position": "279 0 663",
+            "referencePosition": "279 0 698",
+            "yOrientation": 180,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r06"
+        },
+        {
+            "nodeID": "n010",
+            "position": "411.5 0 730",
+            "referencePosition": "411.5 0 722.5",
+            "yOrientation": 0,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r07"
+        },
+        {
+            "nodeID": "n011",
+            "position": "484 0 730",
+            "referencePosition": "484 0 722.5",
+            "yOrientation": 0,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r08"
+        },
+        {
+            "nodeID": "n012",
+            "position": "479.6 0 657.3",
+            "referencePosition": "489.6 0 667.9",
+            "yOrientation": 210,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r09"
+        },
+        {
+            "nodeID": "n013",
+            "position": "485 0 573.5",
+            "referencePosition": "499.8 0 573.5",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r09"
+        },
+        {
+            "nodeID": "n014",
+            "position": "552.5 0 581.5",
+            "referencePosition": "552.5 0 573.5",
+            "yOrientation": 0,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r10"
+        },
+        {
+            "nodeID": "n015",
+            "position": "485 0 373",
+            "referencePosition": "499.8 0 373",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r11"
+        },
+        {
+            "nodeID": "n016",
+            "position": "485 0 333",
+            "referencePosition": "499.8 0 333",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r12"
+        },
+        {
+            "nodeID": "n017",
+            "position": "485 0 223",
+            "referencePosition": "499.8 0 223",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r12"
+        },
+        {
+            "nodeID": "n018",
+            "position": "485 0 182",
+            "referencePosition": "499.8 0 182",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r13"
+        },
+        {
+            "nodeID": "n019",
+            "position": "485 0 69.6",
+            "referencePosition": "499.8 0 69.6",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r13"
+        },
+        {
+            "nodeID": "n020",
+            "position": "692.8 0 69.6",
+            "referencePosition": "678.3 0 69.6",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r14"
+        },
+        {
+            "nodeID": "n021",
+            "position": "692.8 0 182",
+            "referencePosition": "678.3 0 182",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r14"
+        },
+        {
+            "nodeID": "n022",
+            "position": "692.8 0 223",
+            "referencePosition": "678.3 0 223",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r15"
+        },
+        {
+            "nodeID": "n023",
+            "position": "692.8 0 333",
+            "referencePosition": "678.3 0 333",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r15"
+        },
+        {
+            "nodeID": "n024",
+            "position": "692.8 0 373",
+            "referencePosition": "678.3 0 373",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r16"
+        },
+        {
+            "nodeID": "n025",
+            "position": "692.8 0 490.2",
+            "referencePosition": "678.3 0 490.2",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r16"
+        },
+        {
+            "nodeID": "n026",
+            "position": "523.6 0 345",
+            "referencePosition": "523.6 0 360",
+            "yOrientation": 180,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r17"
+        },
+        {
+            "nodeID": "n027",
+            "position": "650.4 0 345",
+            "referencePosition": "650.4 0 360",
+            "yOrientation": 180,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r18"
+        },
+        {
+            "nodeID": "n028",
+            "position": "518.2 0 327",
+            "referencePosition": "499.8 0 327",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r19"
+        },
+        {
+            "nodeID": "n029",
+            "position": "518.2 0 240",
+            "referencePosition": "499.8 0 240",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r20"
+        },
+        {
+            "nodeID": "n030",
+            "position": "518.2 0 220",
+            "referencePosition": "499.8 0 220",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r21"
+        },
+        {
+            "nodeID": "n031",
+            "position": "518.2 0 134.2",
+            "referencePosition": "499.8 0 134.2",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r22"
+        },
+        {
+            "nodeID": "n032",
+            "position": "661 0 134.2",
+            "referencePosition": "678.3 0 134.2",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r23"
+        },
+        {
+            "nodeID": "n033",
+            "position": "661 0 220",
+            "referencePosition": "678.3 0 220",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r24"
+        },
+        {
+            "nodeID": "n034",
+            "position": "661 0 240",
+            "referencePosition": "678.3 0 240",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r25"
+        },
+        {
+            "nodeID": "n035",
+            "position": "466 0 581",
+            "referencePosition": "466 0 566.4",
+            "yOrientation": 0,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r26"
+        },
+        {
+            "nodeID": "n036",
+            "position": "396.3 0 732",
+            "referencePosition": "411.2 0 732",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r27"
+        },
+        {
+            "nodeID": "n037",
+            "position": "396.3 0 674.3",
+            "referencePosition": "411.2 0 674.3",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r27"
+        },
+        {
+            "nodeID": "n038",
+            "position": "435.3 0 668.7",
+            "referencePosition": "411.2 0 668.7",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r28"
+        },
+        {
+            "nodeID": "n039",
+            "position": "396.3 0 638.5",
+            "referencePosition": "411.2 0 638.5",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r29"
+        },
+        {
+            "nodeID": "n040",
+            "position": "396.3 0 581",
+            "referencePosition": "411.2 0 581",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r29"
+        },
+        {
+            "nodeID": "n041",
+            "position": "396.3 0 545",
+            "referencePosition": "411.2 0 545",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r30"
+        },
+        {
+            "nodeID": "n042",
+            "position": "396.3 0 450.6",
+            "referencePosition": "411.2 0 450.6",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r29"
+        },
+        {
+            "nodeID": "n043",
+            "position": "396.3 0 415",
+            "referencePosition": "411.2 0 415",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r31"
+        },
+        {
+            "nodeID": "n044",
+            "position": "396.3 0 366.2",
+            "referencePosition": "411.2 0 366.2",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r31"
+        },
+        {
+            "nodeID": "n045",
+            "position": "396.3 0 296",
+            "referencePosition": "411.2 0 296",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r31"
+        },
+        {
+            "nodeID": "n046",
+            "position": "396.3 0 259",
+            "referencePosition": "411.2 0 259",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r32"
+        },
+        {
+            "nodeID": "n047",
+            "position": "396.3 0 121.6",
+            "referencePosition": "411.2 0 121.6",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r32"
+        },
+        {
+            "nodeID": "n048",
+            "position": "396.3 0 64.8",
+            "referencePosition": "411.2 0 64.8",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r32"
+        },
+        {
+            "nodeID": "n049",
+            "position": "605.2 0 64.8",
+            "referencePosition": "587.8 0 64.8",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r33"
+        },
+        {
+            "nodeID": "n050",
+            "position": "605.2 0 180.5",
+            "referencePosition": "587.8 0 180.5",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r33"
+        },
+        {
+            "nodeID": "n051",
+            "position": "605.2 0 215.8",
+            "referencePosition": "587.8 0 215.8",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r34"
+        },
+        {
+            "nodeID": "n052",
+            "position": "605.2 0 263.1",
+            "referencePosition": "587.8 0 263.1",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r34"
+        },
+        {
+            "nodeID": "n053",
+            "position": "605.2 0 293.6",
+            "referencePosition": "587.8 0 293.6",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r35"
+        },
+        {
+            "nodeID": "n054",
+            "position": "605.2 0 340.7",
+            "referencePosition": "587.8 0 340.7",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r35"
+        },
+        {
+            "nodeID": "n055",
+            "position": "605.2 0 371.5",
+            "referencePosition": "587.8 0 671.5",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r36"
+        },
+        {
+            "nodeID": "n056",
+            "position": "605.2 0 495.7",
+            "referencePosition": "587.8 0 495.7",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r36"
+        },
+        {
+            "nodeID": "n057",
+            "position": "466 0 581",
+            "referencePosition": "466 0 566.4",
+            "yOrientation": 0,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r37"
+        },
+        {
+            "nodeID": "n058",
+            "position": "396.3 0 912.2",
+            "referencePosition": "411.2 0 912.2",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r38"
+        },
+        {
+            "nodeID": "n059",
+            "position": "396.3 0 874.4",
+            "referencePosition": "411.2 0 874.4",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r39"
+        },
+        {
+            "nodeID": "n060",
+            "position": "396.3 0 830.2",
+            "referencePosition": "411.2 0 830.2",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r39"
+        },
+        {
+            "nodeID": "n061",
+            "position": "396.3 0 638.5",
+            "referencePosition": "411.2 0 638.5",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r40"
+        },
+        {
+            "nodeID": "n062",
+            "position": "396.3 0 581",
+            "referencePosition": "411.2 0 581",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r40"
+        },
+        {
+            "nodeID": "n063",
+            "position": "396.3 0 450.6",
+            "referencePosition": "411.2 0 450.6",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r40"
+        },
+        {
+            "nodeID": "n064",
+            "position": "396.3 0 545",
+            "referencePosition": "411.2 0 545",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r41"
+        },
+        {
+            "nodeID": "n065",
+            "position": "396.3 0 415",
+            "referencePosition": "411.2 0 415",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r42"
+        },
+        {
+            "nodeID": "n066",
+            "position": "396.3 0 366.2",
+            "referencePosition": "411.2 0 366.2",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r42"
+        },
+        {
+            "nodeID": "n067",
+            "position": "396.3 0 296",
+            "referencePosition": "411.2 0 296",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r42"
+        },
+        {
+            "nodeID": "n068",
+            "position": "396.3 0 259",
+            "referencePosition": "411.2 0 259",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r43"
+        },
+        {
+            "nodeID": "n069",
+            "position": "396.3 0 121.6",
+            "referencePosition": "411.2 0 121.6",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r43"
+        },
+        {
+            "nodeID": "n070",
+            "position": "396.3 0 64.8",
+            "referencePosition": "411.2 0 64.8",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r43"
+        },
+        {
+            "nodeID": "n071",
+            "position": "605.2 0 64.8",
+            "referencePosition": "587.8 0 64.8",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r44"
+        },
+        {
+            "nodeID": "n072",
+            "position": "605.2 0 180.5",
+            "referencePosition": "587.8 0 180.5",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r44"
+        },
+        {
+            "nodeID": "n073",
+            "position": "605.2 0 215.8",
+            "referencePosition": "587.8 0 215.8",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r45"
+        },
+        {
+            "nodeID": "n074",
+            "position": "605.2 0 263.1",
+            "referencePosition": "587.8 0 263.1",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r45"
+        },
+        {
+            "nodeID": "n075",
+            "position": "605.2 0 293.6",
+            "referencePosition": "587.8 0 293.6",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r46"
+        },
+        {
+            "nodeID": "n076",
+            "position": "605.2 0 340.7",
+            "referencePosition": "587.8 0 340.7",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r46"
+        },
+        {
+            "nodeID": "n077",
+            "position": "605.2 0 371.5",
+            "referencePosition": "587.8 0 371.5",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r47"
+        },
+        {
+            "nodeID": "n078",
+            "position": "605.2 0 415",
+            "referencePosition": "587.8 0 415",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r47"
+        },
+        {
+            "nodeID": "n079",
+            "position": "605.2 0 450.6",
+            "referencePosition": "587.8 0 450.6",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r48"
+        },
+        {
+            "nodeID": "n080",
+            "position": "605.2 0 495.7",
+            "referencePosition": "587.8 0 495.7",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r48"
+        },
+        {
+            "nodeID": "n081",
+            "position": "605.2 0 527.4",
+            "referencePosition": "587.8 0 527.4",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r49"
+        },
+        {
+            "nodeID": "n082",
+            "position": "605.2 0 570",
+            "referencePosition": "587.8 0 570",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r49"
+        },
+        {
+            "nodeID": "n083",
+            "position": "605.2 0 605.8",
+            "referencePosition": "587.8 0 605.8",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r50"
+        },
+        {
+            "nodeID": "n084",
+            "position": "605.2 0 717",
+            "referencePosition": "587.8 0 717",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r50"
+        },
+        {
+            "nodeID": "n085",
+            "position": "569.8 0 690",
+            "referencePosition": "587.8 0 690",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r51"
+        },
+        {
+            "nodeID": "n086",
+            "position": "569.8 0 605.8",
+            "referencePosition": "587.8 0 605.5",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r51"
+        },
+        {
+            "nodeID": "n087",
+            "position": "501.3 0 545",
+            "referencePosition": "501.3 0 558.4",
+            "yOrientation": 180,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r52"
+        },
+        {
+            "nodeID": "n088",
+            "position": "499 0 296",
+            "referencePosition": "476.5 0 296",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r53"
+        },
+        {
+            "nodeID": "n089",
+            "position": "476.5 0 208.7",
+            "referencePosition": "476.5 0 225.6",
+            "yOrientation": 180,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r54"
+        },
+        {
+            "nodeID": "n090",
+            "position": "466 0 581",
+            "referencePosition": "466 0 566.4",
+            "yOrientation": 0,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r55"
+        },
+        {
+            "nodeID": "n091",
+            "position": "396.3 0 912.2",
+            "referencePosition": "411.2 0 912.2",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r56"
+        },
+        {
+            "nodeID": "n092",
+            "position": "396.3 0 693.5",
+            "referencePosition": "411.2 0 693.5",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r57"
+        },
+        {
+            "nodeID": "n093",
+            "position": "396.3 0 566.4",
+            "referencePosition": "411.2 0 566.4",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r58"
+        },
+        {
+            "nodeID": "n094",
+            "position": "396.3 0 542.5",
+            "referencePosition": "411.2 0 542.5",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r58"
+        },
+        {
+            "nodeID": "n095",
+            "position": "396.3 0 474.5",
+            "referencePosition": "411.2 0 474.5",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r59"
+        },
+        {
+            "nodeID": "n096",
+            "position": "396.3 0 450.6",
+            "referencePosition": "411.2 0 450.6",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r59"
+        },
+        {
+            "nodeID": "n097",
+            "position": "396.3 0 415",
+            "referencePosition": "411.2 0 415",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r60"
+        },
+        {
+            "nodeID": "n098",
+            "position": "396.3 0 391.1",
+            "referencePosition": "411.2 0 391.1",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r60"
+        },
+        {
+            "nodeID": "n099",
+            "position": "396.3 0 319.9",
+            "referencePosition": "411.2 0 319.9",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r61"
+        },
+        {
+            "nodeID": "n100",
+            "position": "396.3 0 296",
+            "referencePosition": "411.2 0 296",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r61"
+        },
+        {
+            "nodeID": "n101",
+            "position": "396.3 0 259",
+            "referencePosition": "411.2 0 259",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r62"
+        },
+        {
+            "nodeID": "n102",
+            "position": "396.3 0 235.1",
+            "referencePosition": "411.2 0 235.1",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r62"
+        },
+        {
+            "nodeID": "n103",
+            "position": "396.3 0 165.4",
+            "referencePosition": "411.2 0 165.4",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r63"
+        },
+        {
+            "nodeID": "n104",
+            "position": "396.3 0 141.5",
+            "referencePosition": "411.2 0 141.5",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r63"
+        },
+        {
+            "nodeID": "n105",
+            "position": "396.3 0 102",
+            "referencePosition": "411.2 0 102",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r64"
+        },
+        {
+            "nodeID": "n106",
+            "position": "396.3 0 78.1",
+            "referencePosition": "411.2 0 78.1",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r64"
+        },
+        {
+            "nodeID": "n107",
+            "position": "429.7 0 259",
+            "referencePosition": "411.2 0 259",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r65"
+        },
+        {
+            "nodeID": "n108",
+            "position": "569.8 0 259",
+            "referencePosition": "587.8 0 259",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r66"
+        },
+        {
+            "nodeID": "n109",
+            "position": "569.8 0 450.6",
+            "referencePosition": "587.8 0 450.6",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r67"
+        },
+        {
+            "nodeID": "n110",
+            "position": "569.8 0 495.7",
+            "referencePosition": "587.8 0 495.7",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r68"
+        },
+        {
+            "nodeID": "n111",
+            "position": "605.2 0 78.1",
+            "referencePosition": "587.8 0 78.1",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r69"
+        },
+        {
+            "nodeID": "n112",
+            "position": "605.2 0 102",
+            "referencePosition": "587.8 0 102",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r69"
+        },
+        {
+            "nodeID": "n113",
+            "position": "605.2 0 141.5",
+            "referencePosition": "587.8 0 141.5",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r70"
+        },
+        {
+            "nodeID": "n114",
+            "position": "605.2 0 165.4",
+            "referencePosition": "587.8 0 165.4",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r70"
+        },
+        {
+            "nodeID": "n115",
+            "position": "605.2 0 235.1",
+            "referencePosition": "587.8 0 235.1",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r71"
+        },
+        {
+            "nodeID": "n116",
+            "position": "605.2 0 259",
+            "referencePosition": "587.8 0 259",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r71"
+        },
+        {
+            "nodeID": "n117",
+            "position": "605.2 0 296",
+            "referencePosition": "587.8 0 296",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r72"
+        },
+        {
+            "nodeID": "n118",
+            "position": "605.2 0 319.9",
+            "referencePosition": "587.8 0 319.9",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r72"
+        },
+        {
+            "nodeID": "n119",
+            "position": "605.2 0 391.1",
+            "referencePosition": "587.8 0 391.1",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r73"
+        },
+        {
+            "nodeID": "n120",
+            "position": "605.2 0 415",
+            "referencePosition": "587.8 0 415",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r73"
+        },
+        {
+            "nodeID": "n121",
+            "position": "605.2 0 450.6",
+            "referencePosition": "587.8 0 450.6",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r74"
+        },
+        {
+            "nodeID": "n122",
+            "position": "605.2 0 474.5",
+            "referencePosition": "587.8 0 474.5",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r74"
+        },
+        {
+            "nodeID": "n123",
+            "position": "531.2 0 518",
+            "referencePosition": "531.2 0 524.2",
+            "yOrientation": 180,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r75"
+        },
+        {
+            "nodeID": "n124",
+            "position": "466 0 581",
+            "referencePosition": "466 0 566.4",
+            "yOrientation": 0,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r76"
+        },
+        {
+            "nodeID": "n125",
+            "position": "396.3 0 912.2",
+            "referencePosition": "411.2 0 912.2",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r77"
+        },
+        {
+            "nodeID": "n126",
+            "position": "396.3 0 713.5",
+            "referencePosition": "411.2 0 713.5",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r78"
+        },
+        {
+            "nodeID": "n127",
+            "position": "396.3 0 693.5",
+            "referencePosition": "411.2 0 693.5",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r79"
+        },
+        {
+            "nodeID": "n128",
+            "position": "435.3 0 725.4",
+            "referencePosition": "411.2 0 725.4",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r80"
+        },
+        {
+            "nodeID": "n129",
+            "position": "383.4 0 586.2",
+            "referencePosition": "383.4 0 571.8",
+            "yOrientation": 0,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r81"
+        },
+        {
+            "nodeID": "n130",
+            "position": "375.8 0 571.8",
+            "referencePosition": "383.4 0 571.8",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r82"
+        },
+        {
+            "nodeID": "n131",
+            "position": "375.8 0 542.5",
+            "referencePosition": "383.4 0 542.5",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r82"
+        },
+        {
+            "nodeID": "n132",
+            "position": "375.8 0 474.5",
+            "referencePosition": "383.4 0 474.5",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r83"
+        },
+        {
+            "nodeID": "n133",
+            "position": "375.8 0 358.7",
+            "referencePosition": "383.4 0 358.7",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r84"
+        },
+        {
+            "nodeID": "n134",
+            "position": "521.4 0 250.4",
+            "referencePosition": "521.4 0 258.2",
+            "yOrientation": 180,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r85"
+        },
+        {
+            "nodeID": "n135",
+            "position": "541.4 0 500",
+            "referencePosition": "521.4 0 500",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r86"
+        },
+        {
+            "nodeID": "n136",
+            "position": "521.4 0 549.4",
+            "referencePosition": "521.4 0 542.7",
+            "yOrientation": 0,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r86"
+        },
+        {
+            "nodeID": "n137",
+            "position": "429.7 0 315",
+            "referencePosition": "411.2 0 315",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r87"
+        },
+        {
+            "nodeID": "n138",
+            "position": "429.7 0 237.8",
+            "referencePosition": "411.2 0 237.8",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r87"
+        },
+        {
+            "nodeID": "n139",
+            "position": "429.7 0 214.4",
+            "referencePosition": "411.2 0 216.4",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r88"
+        },
+        {
+            "nodeID": "n140",
+            "position": "429.7 0 132.2",
+            "referencePosition": "411.2 0 132.2",
+            "yOrientation": 90,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r88"
+        },
+        {
+            "nodeID": "n141",
+            "position": "569.8 0 132.2",
+            "referencePosition": "587.8 0 132.2",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r89"
+        },
+        {
+            "nodeID": "n142",
+            "position": "569.8 0 237.8",
+            "referencePosition": "587.8 0 237.8",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r90"
+        },
+        {
+            "nodeID": "n143",
+            "position": "569.8 0 298.3",
+            "referencePosition": "587.8 0 298.3",
+            "yOrientation": 270,
+            "xzOrientation": "0 0",
+            "fkRoomID": "r88"
+        }
+    ]
+}

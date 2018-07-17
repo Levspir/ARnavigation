@@ -1,0 +1,61 @@
+{
+    "Items": [
+        {
+            "floorID": "f00",
+            "floorName": "Test",
+            "floorIndex": 0,
+            "floorImageName": "Testmap",
+            "fkBuildingID": "b1"
+        },
+        {
+            "floorID": "f01",
+            "floorName": "1 & M",
+            "floorIndex": 1,
+            "floorImageName": "floor1",
+            "fkBuildingID": "b1"
+        },
+        {
+            "floorID": "f02",
+            "floorName": "2",
+            "floorIndex": 2,
+            "floorImageName": "floor2",
+            "fkBuildingID": "b1"
+        },
+        {
+            "floorID": "f03",
+            "floorName": "3",
+            "floorIndex": 3,
+            "floorImageName": "floor3",
+            "fkBuildingID": "b1"
+        }
+        ,
+        {
+            "floorID": "f04",
+            "floorName": "4",
+            "floorIndex": 4,
+            "floorImageName": "floor4",
+            "fkBuildingID": "b1"
+        },
+        {
+            "floorID": "f05",
+            "floorName": "5",
+            "floorIndex": 5,
+            "floorImageName": "floor5",
+            "fkBuildingID": "b1"
+        },
+        {
+            "floorID": "f06",
+            "floorName": "6",
+            "floorIndex": 6,
+            "floorImageName": "floor6",
+            "fkBuildingID": "b1"
+        },
+        {
+            "floorID": "f07",
+            "floorName": "6",
+            "floorIndex": 6,
+            "floorImageName": "SQ1 floor 6",
+            "fkBuildingID": "b2"
+        }
+    ]
+}

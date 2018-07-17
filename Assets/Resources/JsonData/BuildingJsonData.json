@@ -1,0 +1,12 @@
+{
+    "Items": [
+        {
+            "buildingID": "b1",
+            "buildingName": "IT KMITL Building"
+        },
+        {
+            "buildingID": "b2",
+            "buildingName": "Siam Square One"
+        }
+    ]
+}

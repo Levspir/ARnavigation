@@ -1,0 +1,663 @@
+{
+    "Items": [
+       {
+        	"roomID": "r01",
+            "roomName": "Аудитория 527",
+            "roomDescription": "Аудитория Компьютерных наук",
+            "isConnector": false,
+            "fkFloorID": "f00"
+        },
+        {
+        	"roomID": "r02",
+            "roomName": "Компьютерные технологии",
+            "roomDescription": "Аудитория для лабораторных",
+            "isConnector": false,
+            "fkFloorID": "f00"
+        },
+        {
+        	"roomID": "r03",
+            "roomName": "Интеллектуальное здание",
+            "roomDescription": "Лабораторная",
+            "isConnector": false,
+            "fkFloorID": "f00"
+        },
+        {
+        	"roomID": "r04",
+            "roomName": "Аудитория 511",
+            "roomDescription": "Кабинет",
+            "isConnector": false,
+            "fkFloorID": "f00"
+        }
+        ,
+        {
+        	"roomID": "r05",
+            "roomName": "Аудитория 535",
+            "roomDescription": "Лекционная",
+            "isConnector": true,
+            "fkFloorID": "f00"
+        },
+        {
+            "roomID": "r06",
+            "roomName": "Кабинет Заведующего кафедрой",
+            "roomDescription": "Заведующий ",
+            "isConnector": false,
+            "fkFloorID": "f01"
+        },
+        {
+            "roomID": "r07",
+            "roomName": "Аудитория 505",
+            "roomDescription": "Кабинет Мат Анализа",
+            "isConnector": false,
+            "fkFloorID": "f01"
+        },
+        {
+            "roomID": "r08",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f01"
+        },
+        {
+            "roomID": "r09",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f01"
+        },
+        {
+            "roomID": "r10",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": true,
+            "fkFloorID": "f01"
+        },
+        {
+            "roomID": "r11",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f01"
+        },
+        {
+            "roomID": "r12",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f01"
+        },
+        {
+            "roomID": "r13",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f01"
+        },
+        {
+            "roomID": "r14",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f01"
+        },
+        {
+            "roomID": "r15",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f01"
+        },
+        {
+            "roomID": "r16",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f01"
+        },
+        {
+            "roomID": "r17",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f01"
+        },
+        {
+            "roomID": "r18",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f01"
+        },
+        {
+            "roomID": "r19",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f01"
+        },
+        {
+            "roomID": "r20",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f01"
+        },
+        {
+            "roomID": "r21",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f01"
+        },
+        {
+            "roomID": "r22",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f01"
+        },
+        {
+            "roomID": "r23",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f01"
+        },
+        {
+            "roomID": "r24",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f01"
+        },
+        {
+            "roomID": "r25",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f01"
+        },
+        {
+            "roomID": "r26",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": true,
+            "fkFloorID": "f02"
+        },
+        {
+            "roomID": "r27",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f02"
+        },
+        {
+            "roomID": "r28",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f02"
+        },
+        {
+            "roomID": "r29",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f02"
+        },
+        {
+            "roomID": "r30",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f02"
+        },
+        {
+            "roomID": "r31",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f02"
+        },
+        {
+            "roomID": "r32",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f02"
+        },
+        {
+            "roomID": "r33",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f02"
+        },
+        {
+            "roomID": "r34",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f02"
+        },
+        {
+            "roomID": "r35",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f02"
+        },
+        {
+            "roomID": "r36",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f02"
+        },
+        {
+            "roomID": "r37",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": true,
+            "fkFloorID": "f03"
+        },
+        {
+            "roomID": "r38",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f03"
+        },
+        {
+            "roomID": "r39",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f03"
+        },
+        {
+            "roomID": "r40",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f03"
+        },
+        {
+            "roomID": "r41",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f03"
+        },
+        {
+            "roomID": "r42",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f03"
+        },
+        {
+            "roomID": "r43",
+            "roomName": "Вахта",
+            "roomDescription": "Время работы 06.00-01.00",
+            "isConnector": false,
+            "fkFloorID": "f03"
+        },
+        {
+            "roomID": "r44",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f03"
+        },
+        {
+            "roomID": "r45",
+            "roomName": "Комната студсовета",
+            "roomDescription": "Ответсвенный: Михайлов М.Н",
+            "isConnector": false,
+            "fkFloorID": "f03"
+        },
+        {
+            "roomID": "r46",
+            "roomName": "Камера хранения",
+            "roomDescription": "Время работы 08.00-17.00",
+            "isConnector": false,
+            "fkFloorID": "f03"
+        },
+        {
+            "roomID": "r47",
+            "roomName": "Комната 163",
+            "roomDescription": "Бажанова Р.А.",
+            "isConnector": false,
+            "fkFloorID": "f03"
+        },
+        {
+            "roomID": "r48",
+            "roomName": "Комната 163А",
+            "roomDescription": "Иванов В.А.",
+            "isConnector": false,
+            "fkFloorID": "f03"
+        },
+        {
+            "roomID": "r49",
+            "roomName": "Служебное помещение",
+            "roomDescription": "Вход только с разрешения \nзаведующей общежития",
+            "isConnector": false,
+            "fkFloorID": "f03"
+        },
+        {
+            "roomID": "r50",
+            "roomName": "Техниеская комната",
+            "roomDescription": "Средства для уборки \nДля персонала \nКлюч на вахте",
+            "isConnector": false,
+            "fkFloorID": "f03"
+        },
+        {
+            "roomID": "r51",
+            "roomName": "ห้องบรรยาย 328",
+            "roomDescription": "ห้องบรรยายกลาง 328",
+            "isConnector": false,
+            "fkFloorID": "f03"
+        },
+        {
+            "roomID": "r52",
+            "roomName": "ห้องบริการนักศึกษา 325",
+            "roomDescription": "ห้องบริการนักศึกษา",
+            "isConnector": false,
+            "fkFloorID": "f03"
+        },
+        {
+            "roomID": "r53",
+            "roomName": "ห้องศูนย์เครือข่ายคอมพิวเตอร์ 322",
+            "roomDescription": "ห้องศูนย์เครือข่ายคอมพิวเตอร์ (ห้อง Server)",
+            "isConnector": false,
+            "fkFloorID": "f03"
+        },
+        {
+            "roomID": "r54",
+            "roomName": "ห้องเก็บพัสดุ 320",
+            "roomDescription": "ห้องเก็บพัสดุ",
+            "isConnector": false,
+            "fkFloorID": "f03"
+        },
+        {
+            "roomID": "r55",
+            "roomName": "Lift ชั้น 5",
+            "roomDescription": "Lift ชั้น 5",
+            "isConnector": true,
+            "fkFloorID": "f05"
+        },
+        {
+            "roomID": "r56",
+            "roomName": "ห้องพักอาจารย์ 517",
+            "roomDescription": "ห้องพักอาจารย์ 517\n 518 ห้องพัก ผศ.ดร. สมเกียรติ วังศิริพิทักษ์\n 519 ห้องพัก ผศ.ดร. ปานวิทย์ ธุวะนุติ\n 520 ห้องพัก อ.อนันตพัฒน์ อนันตชัย\n 521 ห้องพัก ผศ.ดร. สุเมธ ประภาวัต\n 522 ห้องพัก ผศ.ดร. บุญประเสริฐ สุรักษ์รัตนสกุล\n 523 ห้องพัก ผศ.ดร. ธนิศา นุ่มนนท์\n 524 ห้องพัก รศ.ดร. สุขสันต์ พาณิชพาพิบูล\n 525 ห้องพัก ดร. ลภัส ประดิษฐ์ทัศนีย์",
+            "isConnector": false,
+            "fkFloorID": "f05"
+        },
+        {
+            "roomID": "r57",
+            "roomName": "ห้องพักอาจารย์ 510",
+            "roomDescription": "ห้องพักอาจารย์ 510\n 510-1 ห้องพัก ผศ.ดร.ธีรพงศ์ ลีลานุภาพ\n 510-2 ห้องพัก ผศ.ดร. มานพ พันธ์โคกกรวด\n 510-3 ห้องประชุม\n 510-4 ห้องพัก อ.พิชญพงษ์ ตันติกุล\n 510-5 ห้องพัก ผศ.ดร. กันต์พงษ์ วรรัตน์ปัญญา\n 510-6 ห้องพัก ผศ.ดร.ณฐพล พันธุวงศ์\n 510-7 ห้องพัก ดร.กนกวรรณ อัจฉริยะชาญวณิช\n 510-8 ห้องพัก ผศ.ดร. สุภกิจ นุตยะสกุล\n 510-9 ห้องพัก ผศ.ดร. กิติ์สุชาต พสุภา",
+            "isConnector": false,
+            "fkFloorID": "f05"
+        },
+        {
+            "roomID": "r58",
+            "roomName": "ห้องปฏิบัติการและวิจัย PRIP (509)",
+            "roomDescription": "ห้องปฏิบัติการการรู้จำรูปแบบและการประมวลผลภาพดิจิตอล PRIP (Pattern Recognition and Image Processing)\n ผศ.ดร. กันต์พงษ์ วรรัตน์ปัญญา",
+            "isConnector": false,
+            "fkFloorID": "f05"
+        },
+        {
+            "roomID": "r59",
+            "roomName": "ห้องปฏิบัติการและวิจัย IoT (508)",
+            "roomDescription": "ห้องปฏิบัติการสร้างงานนวัตกรรม Internet of Things (IoT Innovation)\n ผศ.ดร. ปานวิทย์ ธุวะนุติ",
+            "isConnector": false,
+            "fkFloorID": "f05"
+        },
+        {
+            "roomID": "r60",
+            "roomName": "ห้องปฏิบัติการและวิจัย IME (507)",
+            "roomDescription": "ห้องปฏิบัติการวิจัยสื่อปฏิสัมพันธ์และอีเลิร์นนิ่ง IME (Interactive Media and E-learning)\n รศ. ดร.นพพร โชติกกำธร\n ดร. สุภวรรณ อันนันหนับ",
+            "isConnector": false,
+            "fkFloorID": "f05"
+        },
+        {
+            "roomID": "r61",
+            "roomName": "ห้องปฏิบัติการและวิจัย AIIS (506)",
+            "roomDescription": "ห้องปฏิบัติการวิจัยปัญญาประดิษฐ์และระบบอัจฉริยะ AIIS (Artificial Intelligence and Intelligent System)\n ผศ.ดร. ภัทรชัย ลลิตโรจน์วงศ์\n ผศ.ดร. สมเกียรติ วังศิริพิทักษ์\n ผศ.ดร. ธนิศา นุ่มนนท์\n ดร.กนกวรรณ อัจฉริยะชาญวณิช\n อ.ศรีนวล นลินทิพยวงศ์",
+            "isConnector": false,
+            "fkFloorID": "f05"
+        },
+        {
+            "roomID": "r62",
+            "roomName": "ห้องปฏิบัติการและวิจัย KnME (505)",
+            "roomDescription": "ห้องปฏิบัติการวิจัยเฉพาะทางด้านการจัดการความรู้และวิศวกรรมความรู้ KnME (Knowledge Management and Knowledge Engineering)\n รศ.ดร. พรฤดี เนติโสภากุล\n ผศ.ดร.ธีรพงศ์ ลีลานุภาพ\n ผศ.ดร. กิติ์สุชาต พสุภา\n ดร.บัณฑิต ฐานะโสภณ",
+            "isConnector": false,
+            "fkFloorID": "f05"
+        },
+        {
+            "roomID": "r63",
+            "roomName": "ห้องปฏิบัติการและวิจัย DME (504)",
+            "roomDescription": "ห้องปฏิบัติการวิจัยการทำเหมืองข้อมูลและการสำรวจข้อมูล DME (Data Mining and Data Exploration)\n รศ.ดร. วรพจน์ กรีสุระเดช",
+            "isConnector": false,
+            "fkFloorID": "f05"
+        },
+        {
+            "roomID": "r64",
+            "roomName": "ห้องปฏิบัติการและวิจัย DSMLR (503)",
+            "roomDescription": "ห้องปฏิบัติการวิจัยวิทยาการข้อมูลและการเรียนรู้ของเครื่องจักร DSMLR (Data Science & Machine Learning Research)\n ผศ.ดร. กิติ์สุชาต พสุภา\n ผศ.ดร. สุภกิจ นุตยะสกุล",
+            "isConnector": false,
+            "fkFloorID": "f05"
+        },
+        {
+            "roomID": "r65",
+            "roomName": "ห้องปฏิบัติการและวิจัย 528",
+            "roomDescription": "ห้องปฏิบัติการและวิจัย",
+            "isConnector": false,
+            "fkFloorID": "f05"
+        },
+        {
+            "roomID": "r66",
+            "roomName": "ห้องประชุม 529",
+            "roomDescription": "ห้องประชุมใหญ่",
+            "isConnector": false,
+            "fkFloorID": "f05"
+        },
+        {
+            "roomID": "r67",
+            "roomName": "ห้องปฏิบัติการและวิจัย 531",
+            "roomDescription": "ห้องปฏิบัติการและวิจัย",
+            "isConnector": false,
+            "fkFloorID": "f05"
+        },
+        {
+            "roomID": "r68",
+            "roomName": "ห้องประชุม 532",
+            "roomDescription": "ห้องประชุมเล็ก",
+            "isConnector": false,
+            "fkFloorID": "f05"
+        },
+        {
+            "roomID": "r69",
+            "roomName": "ห้องปฏิบัติการและวิจัย NPS (533)",
+            "roomDescription": "ห้องปฏิบัติการวิจัยสมรรถนะและความมั่นคงปลอดภัยของเครือข่าย NPS (Network Performance and Security)\n รศ.ดร. จันทร์บูรณ์ สถิตวิริยวงศ์",
+            "isConnector": false,
+            "fkFloorID": "f05"
+        },
+        {
+            "roomID": "r70",
+            "roomName": "ห้องปฏิบัติการและวิจัย MCSN (534)",
+            "roomDescription": "ห้องปฏิบัติการวิจัยเครือข่ายคอมพิวเตอร์เคลื่อนที่และเซนเซอร์ MCSN (Mobile Computing and Sensor Networks)\n ผศ.ดร. สุเมธ ประภาวัต\n รศ.ดร. สุขสันต์ พาณิชพาพิบูล",
+            "isConnector": false,
+            "fkFloorID": "f05"
+        },
+        {
+            "roomID": "r71",
+            "roomName": "ห้องปฏิบัติการและวิจัย ITL (535)",
+            "roomDescription": "ห้องปฏิบัติการวิจัยเทคโนโลยีการปฏิสัมพันธ์ ITL (Interaction Technology)\n ผศ.ดร.ณฐพล พันธุวงศ์",
+            "isConnector": false,
+            "fkFloorID": "f05"
+        },
+        {
+            "roomID": "r72",
+            "roomName": "ห้องปฏิบัติการและวิจัย CIL (536)",
+            "roomDescription": "ห้องปฏิบัติการและวิจัย CIL (Computation Intelligence)\n รศ.ดร. อาริต ธรรมโน",
+            "isConnector": false,
+            "fkFloorID": "f05"
+        },
+        {
+            "roomID": "r73",
+            "roomName": "ห้องปฏิบัติการและวิจัย III (537)",
+            "roomDescription": "ห้องปฏิบัติการและวิจัย III (Intelligent Internet and Informatics)\n รศ.ดร. โชติพัชร์ ภรณวลัย",
+            "isConnector": false,
+            "fkFloorID": "f05"
+        },
+        {
+            "roomID": "r74",
+            "roomName": "ห้องปฏิบัติการและวิจัย ESRD (538)",
+            "roomDescription": "ห้องปฏิบัติการวิจัยและพัฒนาระบบฝังตัว ESRD (Embedded System Research and Development)\n อ.อนันตพัฒน์ อนันตชัย\n ผศ.ดร. โอฬาร วงศ์วิรัตน์",
+            "isConnector": false,
+            "fkFloorID": "f05"
+        },
+        {
+            "roomID": "r75",
+            "roomName": "บอร์ดข่าวสารและงานวิจัย",
+            "roomDescription": "บอร์ดข่าวสารและงานวิจัย ชั้น 5",
+            "isConnector": false,
+            "fkFloorID": "f05"
+        },
+        {
+            "roomID": "r76",
+            "roomName": "Lift ชั้น 6",
+            "roomDescription": "Lift ชั้น 6",
+            "isConnector": true,
+            "fkFloorID": "f06"
+        },
+        {
+            "roomID": "r77",
+            "roomName": "ห้องพักอาจารย์ 623",
+            "roomDescription": "ห้องพักอาจารย์ 623\n 624 ห้องพัก รศ.ดร. โชติพัชร์ ภรณวลัย\n 625 ห้องพัก รศ. ดร.นพพร โชติกกำธร\n 626 ห้องพัก รศ.ดร. อาริต ธรรมโน\n 626 ห้องพัก รศ.ดร. อาริต ธรรมโน\n 627 ห้องพัก ผศ.ดร. ภัทรชัย ลลิตโรจน์วงศ์\n 628 ห้องพัก อ.วารุนี บัววิรัตน์\n 629 ห้องพัก ดร.บัณฑิต ฐานะโสภณ\n 630 ห้องพัก รศ.ดร. วรพจน์ กรีสุระเดช\n 631 ห้องพัก อ.ศรีนวล นลินทิพยวงศ์\n 632 ห้องพัก ผศ.ดร. โอฬาร วงศ์วิรัตน์\n 633 ห้องพัก รศ.ดร. จันทร์บูรณ์ สถิตวิริยวงศ์",
+            "isConnector": false,
+            "fkFloorID": "f06"
+        },
+        {
+            "roomID": "r78",
+            "roomName": "ห้องเตรียมข้อสอ 617",
+            "roomDescription": "ห้องเตรียมข้อสอบ",
+            "isConnector": false,
+            "fkFloorID": "f06"
+        },
+        {
+            "roomID": "r79",
+            "roomName": "ห้อง FIT Club 616",
+            "roomDescription": "ห้อง FIT Club",
+            "isConnector": false,
+            "fkFloorID": "f06"
+        },
+        {
+            "roomID": "r80",
+            "roomName": "MailBox",
+            "roomDescription": "MailBox ชั้น 6",
+            "isConnector": false,
+            "fkFloorID": "f06"
+        },
+        {
+            "roomID": "r81",
+            "roomName": "ห้องออกกำลังกาย 615",
+            "roomDescription": "ห้องออกกำลังกาย",
+            "isConnector": false,
+            "fkFloorID": "f06"
+        },
+        {
+            "roomID": "r82",
+            "roomName": "ห้องพักอาจารย์ 614",
+            "roomDescription": "ห้องพักอาจารย์ 614\n ดร.พรสุรีย์ แจ่มศรี\n ดร.สามารถ หมุดและ",
+            "isConnector": false,
+            "fkFloorID": "f06"
+        },
+        {
+            "roomID": "r83",
+            "roomName": "ห้องประชุม 613",
+            "roomDescription": "ห้องประชุม",
+            "isConnector": false,
+            "fkFloorID": "f06"
+        },
+        {
+            "roomID": "r84",
+            "roomName": "ห้องพักอาจารย์ 606",
+            "roomDescription": "ห้องพักอาจารย์ 606\n 607 ห้องพัก อ.สุพัณณดา โชติพันธ์\n 608 ห้องพัก รศ.ดร. พรฤดี เนติโสภากุล\n 609 ห้องพัก ดร. สุภวรรณ อันนันหนับ\n 610 ห้องพัก อ.พัฒนพงษ์ ฉันทมิตรโอภาส\n 611 ห้องพัก ผศ. อัครินทร์ คุณกิตติ\n 612 ห้องพัก ดร. นล เปรมัษเฐียร",
+            "isConnector": false,
+            "fkFloorID": "f06"
+        },
+        {
+            "roomID": "r85",
+            "roomName": "ห้องเครื่องอัดอากาศ 614",
+            "roomDescription": "ห้องเครื่องอัดอากาศ",
+            "isConnector": false,
+            "fkFloorID": "f06"
+        },
+        {
+            "roomID": "r86",
+            "roomName": "ห้องสำนักงานคณบดี 646",
+            "roomDescription": "สำนักงานคณบดี",
+            "isConnector": false,
+            "fkFloorID": "f06"
+        },
+        {
+            "roomID": "r87",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f02"
+        },
+        {
+            "roomID": "r88",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f02"
+        },
+        {
+            "roomID": "r89",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f02"
+        },
+        {
+            "roomID": "r90",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f02"
+        },
+        {
+            "roomID": "r91",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f02"
+        },
+        {
+            "roomID": "r92",
+            "roomName": "",
+            "roomDescription": "",
+            "isConnector": false,
+            "fkFloorID": "f02"
+        },
+        {
+            "roomID": "r93",
+            "roomName": "ห้อง 327",
+            "roomDescription": "วิทยาลัยอุตสาหกรรมการบินนานาชาติ",
+            "isConnector": false,
+            "fkFloorID": "f02"
+        },
+        {
+            "roomID": "r94",
+            "roomName": "ห้อง 323",
+            "roomDescription": "ห้องเจ้าหน้าที่สนับสนุน (IT Support)",
+            "isConnector": false,
+            "fkFloorID": "f02"
+        }
+    ]
+}
