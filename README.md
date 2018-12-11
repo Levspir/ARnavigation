@@ -4,7 +4,7 @@ Indoor navigation using Unity and Vuforia SDK
 This project is in development. | Senior project for Bachelor of Science (Information Technology).
 <br>
 ## Description Overall
-This project are navigation system on android. Point your mobile's camera to building for find marker images taht resamble with image in database. When found, it will show AR that contains data of that position (if not in navigate mode).
+This project is navigation system on android. Point your mobile's camera to building for find marker images taht resamble with image in database. When found, it will show AR that contains data of that position (if not in navigate mode).
 User can known thier position and rotation direction from Top-view map. and can start navigate mode by choosing destination of that building from Search page. When in navigation mode and point your camera to marker, It will show AR red arrow point to next node. And will show AR green checked when reach destination.
 
 ## Abstract from my paper (may be easier to understand)
